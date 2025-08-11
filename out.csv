@@ -16,7 +16,7 @@ aktua399,Masteroppgave i aktuarfag
 allv100,Innføringsemne i litteraturvitskap
 allv111,Allmenn litteraturvitskap: Litteratur frå antikken til mellomalder/renessanse
 allv112,Allmenn litteraturvitskap: Eldre litteratur og poetikk frå mellomalder/renessanse til opplysingstida/romantikken
-allv113,Allmenn litteraturvitskap: Moderne litteratur og poetikk frå opplysingstida/romantikken til i dag
+allv113,Allmenn litteraturvitskap: Moderne litteratur og poetikk frå romantikken til og med i dag
 allv114,Allmenn litteraturvitskap: Moderne litteraturteori
 allv201,Allmenn litteraturvitskap: Litteraturvitskapleg fordjupingsemne I
 allv202,Allmenn litteraturvitskap: Litteraturvitskapleg fordjupingsemne II
@@ -24,7 +24,6 @@ allv203,Allmenn litteraturvitskap: Litteraturvitskapleg fordjupingsemne III
 allv221,Litteraturteori
 allv250,Litteraturvitskapleg bacheloroppgåve
 allv300,Litteraturvitskapleg tolkings- og metodelære
-allv302,Litteraturvitskapleg tolkings- og metodelære
 allv303,Litteraturvitskapleg særemne I
 allv304,Litteraturvitskapleg særemne II
 allv305,Litteraturvitskapleg særemne V
@@ -34,15 +33,12 @@ allv350,Allmenn litteraturvitskap mastergradsoppgåve
 ant202,Antikkens litteratur
 aorg350,Masteroppgåve i administrasjon og organisasjonsvitskap
 aorg351,Master's Thesis in Public Administration
-aorg602,"Organisering, læring og endring"
-aorg660,Styring gjennom tillit og samordning
-aorg662,Organisasjonsanalyse og metode
-ara100,Innføringskurs i arabisk språk og kultur
-ara111,Grunnkurs i moderne standardarabisk I
-ara112,Grunnkurs i moderne standardarabisk II
-ara113,Grunnkurs i moderne standardarabisk III
-ara115,Innføring i arabisk språkvitskap og dialektologi
-ara211,Tekststudiar i klassisk og moderne standardarabisk
+ara100,Innføring i arabiskfaget og moderne standardarabisk
+ara120,Arabisk grammatikk
+ara121,Omsetjing og praktisk bruk av arabiskfagets verktøy 
+ara122,Arabisk sosiolingvistikk
+ara210,Arbeid med arabiske tekstar
+ara220,Kommunikasjon og språk i felt
 ara621,Arabisk språk og kultur 
 ara622,Grunnkurs i moderne standardarabisk
 ark100,Innføring i arkeologi
@@ -51,7 +47,6 @@ ark111,Arkeologien av jeger- og sankarsamfunn
 ark112,Bronsealderarkeologi
 ark113,Tema i neolittisk arkeologi
 ark114,Aktuelle tema i arkeologi
-ark120,"Middelhavet, Nord-Europa og Norden frå ca. 500 f.Kr. til 1500 e.Kr."
 ark121,Fordjuping i Middelalder og tidleg moderne arkeologi
 ark122,Fordjuping i skandinavisk jernalder 
 ark123,Innføring i romersk arkeologi 
@@ -101,11 +96,11 @@ binf389,Utvalde emne i bioinformatikk
 binfphd901,Genom-skala algoritmar
 binfphd905,Systembiologi
 bio100,Innføring i evolusjon og økologi
-bio101,Organismebiologi 1
-bio102,Organismebiologi 2
+bio101,Organismebiologi
+bio102,Grunnleggjande økologi og feltmetodar
 bio103,Cellebiologi og genetikk
 bio104,Komparativ fysiologi
-bio201,Økologi
+bio201,Økologi: frå individ til økosystem
 bio203,Innføring i havbruk
 bio205,"Praksisperiode, lovverk og forvaltning i akvakultur"
 bio205a,Lovverk og forvaltning i fiskehelse og havbruk
@@ -119,7 +114,6 @@ bio214,Generell mikrobiologi
 bio216,Toksikologi
 bio217,Mikrobiell økologi
 bio219,Molekylær mikrobiologi
-bio225,Marin bentisk fauna
 bio226,Marin bentisk fauna
 bio230,"Botanisk systematikk, morfologi og evolusjon"
 bio250,Palaeoøkologi
@@ -142,7 +136,6 @@ bio303,Ordinasjon og gradientanalyse
 bio315,Utvalde mikrobiologiske emne
 bio316,Utvalde emne i miljøtoksikologi
 bio318,Aktuelle geobiologiske tema
-bio324,Fiskeåtferd
 bio325,Havforsking
 bio332,Fylogenetiske metodar
 bio335,Populasjongenetiske metodar
@@ -160,7 +153,6 @@ biodid220-p,Innføring i biologididaktikk
 biophd900b,Biostatistikk
 biophd932,Fylogenetiske metodar
 bmed201,Menneskets anatomi 
-bmed320,Metoder i biomedisinsk forskning
 bmed322,Metoder i biomedisinsk forskning
 bmed325,Cellulær biokjemi og nanobiokjemi
 bmed326,"Proteinstrukturbestemming, validering og analyse"
@@ -202,9 +194,6 @@ cdp925b,"Kvalitativ forsking B - teori, presentasjon og refleksjon"
 cdp930,Metasyntese av kvalitativ forskning
 cdp991,Linear mixed modeling of treatment/intervention studies
 cdp993,Vitenskapelige metoder: Analyse av kvalitative data ved hjelp av Systematisk Tekst Kondensering (STK)
-cismac900-5,Intervention science in maternal and child health
-cismac900a-4,Intervention science in maternal and child health
-cismac900a-5,Intervention science in maternal and child health
 data110,Innføring i programmering
 data120,Databasar
 data150,Datasett
@@ -233,7 +222,6 @@ des332,Nye nettverk
 des334,Programmering for design
 des335,Byggteknikk
 des350,Designpraksis 4 - Sammenstilling og formidling
-deth660,"The ""Design"" in Design Thinking"
 didaeng1,Engelskdidaktikk 1
 didaeng2,Engelskdidaktikk 2
 didafil1,Filosofididaktikk 1
@@ -290,7 +278,7 @@ digi616,Introduksjon til digital medisin
 digi617,Språkteknologi
 dikult103,"Digitale sjangrar: digital kunst, elektronisk litteratur og dataspill"
 dikult104,"Datateknologi: Historie, teori og praksis"
-dikult105,Webdesign I
+dikult105,Å skape digital kultur
 dikult106,Kritiske perspektiv på teknologi og samfunn
 dikult203,Elektronisk litteratur
 dikult205,Webdesign II
@@ -313,14 +301,13 @@ dor201,Sanseleg design
 dor223,Formgiving og anvendt estetikk
 dor236,Utstillingsdesign
 dor240,Portfolio og formidling
-dor245,Selvvalgt prosjekt interiørarkitektur eller møbeldesign
+dor245,Sjølvvalt prosjekt interiørarkitektur eller møbeldesign
 dor246,Design og produksjon
 dor251,Bachelorprosjekt i møbel- og romdesign/interiørarkitektur
 dsc219,Praksis i data science
 dsc300,Data science prosjektstyring
 dsc316,Datafordjuping
 dsc399k,Masteroppgåve
-eas250,Bacheloroppgåve i japansk
 eas251,Bacheloroppgåve i kinesisk
 econ100,Innføring i samfunnsøkonomi
 econ110,Mikroøkonomiske grunnomgrep og marknadsteori
@@ -332,7 +319,7 @@ econ127,Innføring i spel og strategiar
 econ130,Makroøkonomi
 econ140,Matematikk for økonomer
 econ150,Marknad og moral
-econ210,Velferd og økonomisk politikk
+econ210,Videregåande mikroøkonomi
 econ217,Challenges of Global Poverty 
 econ218,Næringsstruktur og internasjonal handel
 econ220,Velferdsstatens økonomi
@@ -377,18 +364,14 @@ eemed301,PET i onkologi
 eemed302,Multimodal billeddiagnostikk i endokrin hals
 elmed204,Dyreassistert terapi og assistanse
 elmed207,Maritim Medisin
-elmed209,Arbeidsmedisin i utviklingsland
 elmed212,Fjellmedisin
-elmed217,Den akutt sjuke gamle pasienten
 elmed218a,Innføring i medisinsk pedagogikk
 elmed218b,Medisinsk pedagogisk praksis
 elmed219,Kunstig intelligens og beregningsorientert medisin
 elmed220,Aktivitet og kost er medisin
 elmed223-a,Innovasjon og entreprenørskap
 elmed227,Søvnsjukdommar
-elmed228,Pasientsikkerheit og simulering i praksis
 elmed229,Medisinsk fredsarbeid
-elmed232,Seksuell helse og mangfald
 elmed301,Praktisk oftalmologi
 elmed303,Framtidsmedisin 
 elmed308,Fordjupingskurs i palliativ medisin
@@ -411,7 +394,7 @@ elmed354,God helseteneste for mennesker med samtidig ruslidelse og psykisk lidel
 energi101,Introduksjon til energikjelder og forbruk
 energi102,Livsløpsanalyse
 energi230,Miljø og energi
-energi240,Praksisutplassering
+energi240,Praksis i energi
 energi251,Vitskapleg skriving og formidling
 energi255,Numeriske metodar for prosessteknologi
 energi257,Fluidmekanikk og varmeoverføring
@@ -424,7 +407,6 @@ energi351,Vitskapleg skriving og formidling
 energi352,Forbrenningsfysikk
 energi353,Introduksjon til fleirfasesystem
 energi356,Termodynamiske metodar for separasjonsteknologi
-energi360,Energifysikk og -teknologi
 energi364,Eksperimentelle metodar i reservoarfysikk
 energi365,Simulering av fleirfasestrøyming i porøse media
 energi366,Naturgasshydrat: Fundamentale aspekter og praktiske implikasjoner
@@ -439,6 +421,7 @@ eng110,Lydar og strukturar
 eng120,System og variasjon
 eng120l,Aspekt ved det engelske språksystemet
 eng122,Amerikansk litteratur og kultur 
+eng122l,Amerikansk litteratur og kultur
 eng125,Britisk litteratur og kultur 
 eng225,Engelsk lingvistikk: språkhistorie
 eng225l,Engelsk lingvistikk: språkhistorie
@@ -447,14 +430,14 @@ eng226l,Engelskspråkleg (amerikansk) litteratur og kultur I
 eng227,Engelsk lingvistikk: moderne lingvistikk
 eng227l,Engelsk lingvistikk: moderne lingvistikk
 eng228,Engelskspråkleg (britisk eller kolonial/postkolonial) litteratur og kultur II
-eng261,Semesteroppgåve i engelsk lingvistikk: språkhistorie
-eng263,Semesteroppgåve i engelsk lingvistikk: moderne lingvistikk
-eng265,Semesteroppgåve i engelsk lingvistikk: språkhistorie
+eng261,Bacheloroppgåve i engelsk lingvistikk: språkhistorie
+eng263,Bacheloroppgåve i engelsk lingvistikk: moderne lingvistikk
+eng265,Bacheloroppgåve i engelsk lingvistikk: språkhistorie
 eng265l,Bacheloroppgåve i engelsk lingvistikk: språkhistorie
-eng266,Semesteroppgåve i engelskspråkleg (amerikansk) litteratur og kultur I
-eng267,Semesteroppgåve i engelsk lingvistikk: moderne lingvistikk
+eng266,Bacheloroppgåve i engelskspråkleg (amerikansk) litteratur og kultur I
+eng267,Bacheloroppgåve i engelsk lingvistikk: moderne lingvistikk
 eng267l,Bacheloroppgåve i engelsk lingvistikk: moderne lingvistikk
-eng268,Semesteroppgåve i engelskspråkleg (britisk eller kolonial/postkolonial) litteratur og kultur II
+eng268,Bacheloroppgåve i engelskspråkleg (britisk eller kolonial/postkolonial) litteratur og kultur II
 eng268l,Bacheloroppgåve i engelskspråkleg litteratur og kultur II
 eng331,Masteremne i engelskspråklig litteratur/kultur I
 eng332,Masteremne i engelskspråklig litteratur/kultur II
@@ -497,7 +480,6 @@ executive681,"Gjenstridige problem, samspel og samordning i offentleg sektor"
 executive682,Europeisering av forvaltinga
 executive683,Prioritering og styring i offentleg sektor
 executive690,Masteroppgåve i operativ leiing og myndigheitsutøving
-exfac00as,Akademisk skriving
 exfac00sk,Språkkunnskap
 exphil-hfeks,Examen philosophicum - skuleeksamen
 exphil-hfsem,Examen philosophicum - seminarmodell
@@ -550,7 +532,7 @@ fil217,Wittgensteinstudiar
 fil218,Estetikk
 fil219,Vitskapsfilosofi
 fil220,Metafysikk
-fil228,Moralfilosofi
+fil228,Etikk
 fil231,Ope emne
 fil232,Ope emne med redusert oppgåvestorleik
 fil233,Filosofien i antikken
@@ -571,7 +553,7 @@ fil319,Masteremne i vitskapsfilosofi
 fil320,Masteremne i metafysikk
 fil321,Metodebruk
 fil322,Prosjektskisse
-fil328,Masteremne i moralfilosofi
+fil328,Masteremne i etikk
 fil331,Forskingsemne i teoretisk filosofi
 fil332,Forskingsemne i praktisk filosofi
 fil333,Masteremne i filosofien i antikken
@@ -601,11 +583,9 @@ fran121,Fransk grammatikk 2
 fran122,Innføring i moderne franskspråkleg litteratur
 fran123,Innføring i franske litterære klassikarar
 fran124,Fransk kulturkunnskap og frankofoni
-fran204,Fordjuping i fransk litteratur
 fran205,Fordypning i fransk grammatikk og tekstlingvistikk
 fran206,Fordjuping i fransk litteratur
 fran206l,Fordjuping i fransk litteratur 
-fran254,Fordjuping i fransk litteratur med bacheloroppgåve
 fran255,Fordjuping i fransk grammatikk og tekstlingvistikk med bacheloroppgåve
 fran255l,Fordjuping i fransk grammatikk og tekstlingvistikk med bacheloroppgåve for lektorutdanninga
 fran256,Fordjuping i fransk litteratur med bacheloroppgåve
@@ -647,7 +627,6 @@ geo-sd308,Model-based Policy Design and Analysis
 geo-sd309,Modell-baserte Interaktive Læremiljø
 geo-sd310,Writing Course and Project Description
 geo-sd311,Analytical methods and advanced modelling
-geo-sd321,Model-based Socioeconomic Planning
 geo-sd322,"Special Topics in System Dynamics, Policy"
 geo-sd323,"Special Topics in System Dynamics, Applications"
 geo-sd324,"Special Topics in System Dynamics, Methodology"
@@ -656,11 +635,10 @@ geo-sd330,Natural Resources Management
 geo-sd350,Masteroppgåve i systemdynamikk
 geo-sd351,Masteroppgåve i systemdynamikk
 geo-sd360,Masteroppgåve i systemdynamikk
-geo100,Introduksjon til geografi: Globale utfordringer og lokale svar
 geo110,Kartografi og tematiske kart
 geo111,Landformdannande prosessar
 geo113,"Klima, oseanografi og biogeografi"
-geo124,Regional utvikling
+geo124,Regional utvikling: Teori og metode
 geo125,"Økonomisk globalisering, produksjonssystem og miljø"
 geo131,"Mat, miljø og berekraftig utvikling"
 geo204,Kvantitativ metode
@@ -674,7 +652,7 @@ geo224,Planlegging og berekraftig utvikling av byar og tettstader
 geo260,Praksisemne i geografi
 geo281,Miljøforvaltning og planlegging
 geo283,Geografiske tilnærmingar til klimatilpassing og -forebygging
-geo291,Naturgeografisk feltkurs
+geo291,Natur- og miljøgeografisk feltkurs
 geo292,Regionalgeografisk feltkurs
 geo293,Miljøgeografisk feltkurs
 geo306,Metodar i samfunnsgeografi
@@ -732,6 +710,7 @@ geov114,Innføring i geobiologi
 geov181,Introduksjon til geofag og informatikk
 geov205,Geografiske informasjonssystem: Teori og praksis
 geov210,Platetektonikk
+geov212,Hydrogeologi
 geov217,Geofarar
 geov218,Bergartsfysikk
 geov222,Paleoklimatologi
@@ -760,7 +739,7 @@ geov322,Masterekskursjon i kvartærgeologi
 geov324,Paleoklima i polare strok
 geov325a,Glasiologi
 geov329,Kvartær geokronologi
-geov331,Utvalgte emner i paleoseanografi
+geov331,Paleoseanografi
 geov336,Lab- og metodekurs i kvartærgeologi
 geov341,Termokronologi og tektonikk
 geov342,Den geokjemiske verktøykassen
@@ -787,6 +766,7 @@ ghig944,"Fremja samfunnsvitskapane: Ta tak i utfordringar og forbetre forskingsi
 Fremja samfunnsvitskapane: Ta tak "
 ghig945,Kritiske perspektiver på teori og metodologi i psykologi
 ghig990,ReproducibiliTea journal club
+ghig991,Latent Class Analysis
 globalhealth,Global Health
 globaltheory,Global Theory
 glode300,Critical approaches to Development
@@ -797,11 +777,8 @@ glode311,Development Practice
 glode330,Master's Thesis
 goh301,Global oral helse
 gov100,Innføring i politikk og forvaltning
-gov101,Organisasjonsteori
-gov103,Norsk politikk
 gov104,Politisk teori og styreformer
 gov106,Rett og politikk
-gov107,EU og internasjonale organisasjonar
 gov108,Climate Policy
 gov112,Organisasjonsteori
 gov113,Norsk politikk
@@ -838,7 +815,7 @@ gov360-5,AI for good? The Global Governance and Politics of Technology
 gov360-6,Global: Politics and Child Protection
 gov360-7,Climate politics: The challenge of Autocratization and the climate emergency 
 gov371,Internship
-gov372,Self-organized course
+gov372,Writing an academic article
 gov380,Master's Thesis in Politics and Governance of Global Challenges
 gov602,"Organisering, læring og endring"
 gov606,Teknologileiing
@@ -850,7 +827,6 @@ gov661,Reformanalyse og reformarbeid
 gov662,Organisasjonsanalyse og metode
 gov901,Effects of Lawfare: Courts and law as battlegrounds for social change
 gov902,Accounting for Time: Public Bureaucracies in a Changing Environment
-gov904,Climate Politics and Autocratization
 gov905,SCANCOR PhD Course in Institutional Analysis
 gre100,Innføring i gresk
 gre102,Gresk prosa og grammatikk
@@ -888,7 +864,7 @@ grieg930,The Study of Music: Disciplinary Specialisation
 grieg931,Creativity and Innovation: What Every Researcher Needs to Know
 havb399,Masteroppgåve i havbruk (sivilingeniør)
 hefr331,Helsefremjande arbeid: Innføring i sentrale omgrep og teoriar
-hefr342,Resource approaches to health and wellbeing
+hefr342,Ressursbaserte tilnærmingar til helse og velvære
 hefr343,"Planlegging, implementering og evaluering i helsefremjande arbeid"
 hefr395,Masteroppgåve i helsefremjande arbeid og helsepsykologi
 hekval620,Kvalitetsforbedring i helsetjenesten
@@ -907,7 +883,6 @@ helvid650,"Masteroppgåve i helseleiing, kvalitetsforbetring og helseøkonomi (E
 helvit300,Helsefagleg relevant vitskapsteori og forskingsetikk
 hem303,Kvalitative metodar og forskingsplanlegging
 hem304,"Kvantitative metodar, forskingsplanlegging og anvendt statistisk analyse"
-hermod620,"Hermod: Kommunikasjon av forsking, kultur og forvaltning"
 hidi100-p,"Historiedidaktikk 1, lektorutdanning fag 1"
 hidid111,Historiedidaktikk for vidaregåande skole
 hidid112,Historiedidaktikk for grunnskolen
@@ -923,7 +898,6 @@ his100,Innføring i historie
 his101,Oversyn over eldre historie til 1750
 his102,Oversyn over nyare historie frå 1750
 his108,Oversikt over kvinne- og kjønnshistorie
-his111,Oversikt over USAs historie
 his113,Fordjuping i eldre historie
 his114,Fordjuping i eldre historie
 his115,Fordjuping i nyare historie
@@ -1009,7 +983,7 @@ inf241,"Kvanteinformasjon, kvanteberekning og kvantekryptografi"
 inf242,Informasjonsteori
 inf243,Algebraisk kodeteori
 inf244,Grafbasert kodeteori
-inf245,Berekningsorientert talteori og asymmetrisk kryptografi
+inf245,Asymmetrisk og post-kvante kryptografi
 inf247,Innføring i kryptoanalyse av symmetriske chiffer
 inf249,Avansert cybersikkerheit
 inf250,Dataorientert visuell berekning
@@ -1104,7 +1078,6 @@ infphd967a,Utvalde emne i kunstig intelligens II
 infphd973,Metaheuristikkar
 innov201,Innovasjon ved designtenkning
 inth302,Epidemiology
-inth310a,Introduction to Occupational Health
 inth310b,"Arbeid og helse globalt, ei innføring"
 inth314,Applied economic evaluation in health care
 inth315,Methods in Global Health Research
@@ -1133,7 +1106,6 @@ inth928,Global Tuberculosis Epidemiology and Intervention
 inth931,Assessment of Occupational Exposure to Chemicals
 inth944,Migrasjon og helse
 inth945,Introduksjon til antropologi i global helse
-inth950,Likhet og rettferdighet i helse - en anvendt tilnærming til etikk
 inth956,"Observational Epidemiology: Survey, Cohort and Case-Control Studies"
 iped920a,Teori og praksis
 iped920b,Paper. Teori og praksis
@@ -1142,13 +1114,11 @@ isl104,Islandsk språk og samfunn
 ital100,Innføring i italienskstudium
 ital121,Italiensk språk 1
 ital122,Italiensk litteratur
-ital123,Munnleg italiensk med fonetikk
 ital124,Italiensk språk 2
 ital125,Moderne italiensk kortprosa
 ital133,Media og italiensk samtidskultur
 ital203,Italiensk språk og lingvistikk
 ital205,Fordjuping i eldre italiensk litteratur
-ital250,Eldre italiensk litteratur
 ital253,Italiensk språk og lingvistikk med bacheloroppgåve
 ital255,Fordjuping i eldre italiensk litteratur med bacheloroppgåve
 ital301,Italiensk språkhistorie og språklig variasjon
@@ -1198,12 +1168,14 @@ jur606,Forebygging og avdekking av korrupsjon i næringslivet og offentlig sekto
 jur607,"God forvaltningsskikk: Rettstryggleik, kommunikasjon og konfliktforståing i forvaltninga"
 jur661,Advanced course in Law of Armed Conflict
 jus100,Exfac - Innføring i juridisk metode
+jus100-1,Juridisk argumentasjon i rettsstaten
 jus110,Rettsfilosofi og argumentasjonsteori
-jus211,Familie- og arverett
 jus212,Avtalerett
+jus212-1,Avtalerett
 jus213,Erstatningsrett
-jus213-1,Erstatningsrett
+jus213-1,Skadebot
 jus214,Tings- og immaterialrett
+jus214-1,Tings- og immaterialrett
 jus215,Juridisk metode
 jus221,"Rettsstaten: statsrett, europarett og folkerett"
 jus222,Forvaltningsrett
@@ -1233,30 +1205,11 @@ jus2320,Comparing Legal Cultures in Europe - Bachelor
 jus2321,Introduction to Chinese Civil and Commercial Law
 jus2322,Health and Human Rights - Bachelor
 jus233,Komparativ rett
+jus233-1,Rettshistorie og komparativ rett
 jus2397,Barnerett
 jus2398,Miljørett
 jus2399,Skatterett
-jus241,Strafferett
-jus242,Rettargang
-jus243,Allmenn formuerett
-jus250-2-d,Velferdsrett
-jus251-2-a,Grunnleggende arbeidsrett
-jus251-2-b,Arbeidsrett fordypning
-jus253-2-a,Kommunalrett 
-jus254-2-a,Politirett
-jus255-2-a,Påtalerett
-jus256-2-a,Skatterett I
-jus256-2-b,Skatterett II
-jus257-2-a,Grunnleggande selskapsrett
-jus257-2-b,Aksjeselskapsrett - fordjuping
-jus260-2-a,Design- og patentrett
-jus260-2-b,Opphavsrett
-jus260-2-c,Kjenneteiknsrett
-jus260-2-d,Marknadsføringsrett
-jus261-2-a,Konfliktmekling 
-jus265-2-a,Planrett
 jus266-2-a,Domsanalyse og domsskriving
-jus297-2-a,Comparative European Constitutional Law
 jus325,Rettshjelp - valemne
 jus329,Skriveveiledning og gruppeledelse
 jus330-a,EEA Moot Court
@@ -1296,10 +1249,8 @@ jus3557,Velferdsrett
 jus390,Masteroppgåve
 jus391,Juridiske utgreiingar
 jus392,Masteroppgåve
-jus396,Masteroppgåve (60 sp)
 jus397,Masteroppgåve (70 sp) forskarline
 jus399,Masteroppgåve
-kddi201,Kunst- og designdidaktikk 1
 kddi202,Kunst- og designdidaktikk 2
 kdpra210,"Praksis for Praktisk-pedagogisk utdanning, kunst og design (heiltid)"
 kdpra211,"Praksis for Praktisk-pedagogisk utdanning, kunst og design (deltid)"
@@ -1323,7 +1274,6 @@ kjem120,Grunnstoffenes kjemi
 kjem124,Kjemisk syntese og analyse
 kjem130,Organisk kjemi
 kjem202,Miljøkjemi
-kjem203,Petroleumskjemi og biodrivstoff
 kjem210,Kjemisk termodynamikk
 kjem214,Overflate- og kolloidkjemi
 kjem215,Molekylær fysikalsk kjemi
@@ -1384,7 +1334,6 @@ kmdintro-016,Verkstedstilgang: lydstudio og medialab
 kmdintro-017,Verkstedstilgang: videostudio
 kmdintro-018,Verkstedstilgang: tekstil - trykk
 kmdintro-019,Verkstedstilgang: gips
-kmdintro-020,Verkstedstilgang: lakkrom
 kmdintro-021,Verkstedstilgang: risograf
 kmdintro-022,Verkstedstilgang: maleri
 kmdintro-023,Verkstedstilgang: GA:Studio A
@@ -1393,12 +1342,13 @@ kmdintro-025,Verkstedstilgang: tekstil - digitalvev
 kmdped201,Pedagogikk 1
 kmdped202,Pedagogikk 2
 kmdppu1,Praktisk-pedagogisk utdanning 1
+kmdppu2,Praktisk-pedagogisk utdanning 2
 kmdppu3,Praktisk-pedagogisk utdanning 3
+kmdppu4,Praktisk pedagogisk utdanning 4
 kogstat,Statistikk for kognisjonsforsking
 kogvit101,Introduction to the Cognitive Sciences
 kop101,Koptisk
 kopra101,Skulen og lærarrolla i praksis
-kopra102,Læringsprosessar
 kopra103,Planlegging og evaluering av undervising 
 korps601,Skolekorpsleiing
 kpdag1,Kampuspraksisdag 1: Mobbing 
@@ -1418,9 +1368,9 @@ kun107,"Kunst og kultur i mellomalder, renessanse og barokk"
 kun108,"Kunst, arkitektur og visuell kultur 1950-i dag "
 kun201,Introduksjon til kunsthistoriefagets teori og historiografi
 kun209,"Kunst, retorikk og lærdomstradisjonar i før- og tidlegmoderne tid"
-kun250,Kunstane i antikken og mellomalderen og den klassiske tradisjonen
+kun250,Kunstane i antikken og mellomalderen og den klassiske tradisjonen med bacheloroppgåve
 kun256,Områdestudium med bacheloroppgåve
-kun260,"Kunst, arkitektur og visuell kultur i moderne og samtid"
+kun260,"Kunst, arkitektur og visuell kultur i moderne og samtid med bacheloroppgåve"
 kun311,Kunsthistorie: prosjektførebuing og oppfølging
 kun312,Historiografi og teori
 kun321,Forskingsformidling: Kunsthistorie i samfunnet
@@ -1428,10 +1378,6 @@ kun323,"Forskingsfordjupning i kunsthistorie: feltarbeid, fagmiljø og fellesska
 kun350,Kunsthistorie mastergradsoppgåve 
 kuoppl1,Opplæringsdel 1
 kuoppl2,Opplæringsdel 2
-kurator-1,MA kuratorpraksis 1. semester
-kurator-2,MA kuratorpraksis 2. semester
-kurator-3,MA kuratorpraksis 3. semester
-kurator-4,MA kuratorpraksis 4. semester
 kuvi100,Innføring i kulturvitskap
 kuvi101,Mennesket i kulturen og kulturen i mennesket. Kulturvitskapelege syn på verda
 kuvi104,Forteljing og fortolking frå folkeeventyr til falske nyheiter
@@ -1523,7 +1469,6 @@ mabva402,Barnevernet sine beslutningsprosessar og rettslære
 mabva431,"Innovasjon, tiltak og prosjektplanlegging "
 mabva432,Praktisk barnevernsarbeid på system- og individnivå
 mabva450,Masteroppgåve i barnevernsarbeid
-man301,Introduksjon til manusutvikling for seriar
 man302,Fordjuping i manusutvikling for seriar
 man350,Utplassering og masteroppgåve
 mant301b,Smerte som fenomen
@@ -1543,6 +1488,7 @@ mantult664,"Vidareutdanning i ultralyd av muskelskjelettsystemet, Modul 1"
 mantult665,"Vidareutdanning i ultralyd av muskelskjelettsystemet, Modul 2"
 mapsyk301,Perspektiv i psykologisk vitskap
 mapsyk302,Forskingsmetodar
+mapsyk302int,Forskingsmetodar
 mapsyk321,"Leiar-, team og organisasjonsutvikling"
 mapsyk322,Arbeidsmiljøarbeid og konflikthandtering
 mapsyk323,Praktisk utviklingsarbeid og rollen som intern og ekstern utviklingsagent: studentfirma
@@ -1560,7 +1506,6 @@ mapsyk360,Masteroppgåve i psykologi
 mat100,Innføringsemne i matematikk
 mat101,Brukarkurs i matematikk I
 mat102,Brukarkurs i matematikk II
-mat105,Matematikk for naturvitskap
 mat111,Grunnkurs i matematikk I
 mat112,Grunnkurs i matematikk II
 mat121,Lineær algebra
@@ -1664,7 +1609,6 @@ medflhel,Forskning heltid
 medflopp,Forskarlina: Forskingsoppgåve
 medflskriv,Forskning skriv
 medform,Allmennmedisinsk forskningsformidling
-medkval1,Kvalitative metoder i allmennmedisinsk forsking
 medkvforsk2,Kvalitative forskningsmetoder - fordjuping i analysemetoder og tradisjonar
 medmet901,Etikk og helseforskning
 medod1,Første semester medisin- og odontologistudiet
@@ -1678,9 +1622,13 @@ medsta3,Analysis of longitudinal and correlated data
 medstata,Medisinsk Statistikk med Stata
 medstav10,Tiande semester Vestlandslegen Stavanger
 medstav11,Ellevte semester Vestlandslegen Stavanger
+medstav11-a,Ellevte semester Vestlandslegen Stavanger
 medstav12,Tolvte semester Vestlandslegen Stavanger
+medstav12-a,Tolvte semester Vestlandslegen Stavanger
 medstav7,Sjuande semester Vestlandslegen Stavanger
+medstav7-a,Sjuande semester Vestlandslegen Stavanger
 medstav8,Åttande semester Vestlandslegen Stavanger
+medstav8-a,Åttande semester Vestlandslegen Stavanger
 medstav9,Niande semester Vestlandslegen Stavanger
 medstavoppg1,Hovudoppgåve del 1
 medstavoppg2,Hovudoppgåve del 2
@@ -1698,7 +1646,6 @@ meme105,Introduksjon i fotografi
 meme106,Introduksjon i grafikk
 meme107,Introduksjon i performance
 meme108,Introduksjon i skulptur
-met102,Samfunnsvitskapleg metode
 met103,Kvalitativ samfunnsvitskapleg metode
 met104,Kvantitativ samfunnsvitskapleg metode
 met900,Qualitative Digital Methods for Social Scientists
@@ -1781,8 +1728,6 @@ mob216,Folkedans
 mob217,Folkedans påbygging
 mob230,Folkemusikkutøving 3
 mob231,Folkemusikkutøving 4
-mob301,Folk Music Theory and Practice
-mob350,Instrumental Studies and Ensemble
 mobint301,Nordic Folk Music for Exchange Students
 mofphd900,Avhandling ph.d.
 mol100,Innføring i molekylærbiologi
@@ -1809,7 +1754,6 @@ mtek200,Praksisutplassering i Medisinsk Teknologi
 mtek320,Flow kjemi og teknologi
 mtek330,Kvalitetssikring av kjemiske analysar
 mtek399,Masteroppgåve i medisinsk teknologi
-mudi201,Musikkdidaktikk 1
 mudi202,Musikkdidaktikk 2
 muf101,"Musikk, kultur og samfunn"
 muf202,Improvisasjon
@@ -1876,7 +1820,6 @@ muv227,Biinstrument A
 muv228,Biinstrument B
 muv229,Biinstrument påbygging
 muv236,Musikkformidling
-muv242,Barokkmusikkens historie og idégrunnlag
 muv243,Musikkdramatikk
 muv245,Musikkdramatikk påbygging
 muv246,"Tidleg musikk, ensemble I"
@@ -1915,16 +1858,12 @@ mvk105,Innføring i norsk folkemusikk
 mvk210,"Music, Gender and Sexuality"
 mvk230,Russian Music: Concert Hall to Dance Club
 mvk250,Bacheloroppgåve i musikkvitskap
-n-poc902,Global Ocean and Climate Diplomacy: The Ocean-Climate Nexus
-n-poc903,Multidisciplinary Methodologies for Global Challenges: Pacific Research Narratives
 nano161,Innføring i nanoteknologi og -instrumentering
 nano244,Material- og nanokjemi
 nano299,Bachelorprosjekt i Nanoteknologi
 nano310,Nanoetikk
 nano399,Masteroppgåve i nanovitskap
 natdi300,Tilpassa undervisning i naturfag
-natdid210,Læring i naturfaga
-natdid210-p,Læring i naturfaga
 natdid211,Kvalitet i naturfagsundervisninga
 natdid212-p,Naturfagsdidaktikk - undervisningskvalitet i teori og praksis
 natdid220,Naturfagdidaktikk
@@ -1934,6 +1873,7 @@ neurosysm910,Symposium for forskere i tidlig fase
 neurosysm920,Neuro-SysMed seminarrekke og symposium
 neurosysm930,Anvendt bioinformatikk og data analyse i medisinsk forskning
 neurosysm940,The nature of disease and suffering and the goals of precision medicine
+nodi100,Nordisk fagdidaktikk 1 (fag 2)
 nodi100-p,Nordisk fagdidaktikk 1
 nodi101,Nordisk fagdidaktikk
 nodi111,Fagdidaktikk i nordisk for integrert lektorutdanning
@@ -1959,7 +1899,7 @@ noli103-f,Nordisk: Den eldre litteraturen (Fjernord)
 noli103-l,Nordisk: Den eldre litteraturen for integrert lærarutdanning
 noli216,Nordisk: Litterær analyse og teori
 noli220,Nordisk: Litterært emne
-noli250,Nordisk: Litterær analyse og teori
+noli250,Nordisk: Litterær analyse og teori med bacheloroppgåve
 noli250-l,Nordisk: Litterær analyse og teori med bacheloroppgåve
 noli307,Nordisk: Litterær analyse og teori
 noli311,Nordisk: Litterært masteremne C
@@ -1982,8 +1922,6 @@ nor-u4,"Kurs i norsk språk og kultur for framandspråklege studentar, trinn 4"
 norainf903,Geometrisk djup læring
 noran101,Norsk språk som andrespråk 
 noran104,Andrespråkslæring og -undervising
-noran105,Fonologi og grammatikk i andrespråksperspektiv
-noran106,Tekstlingvistikk og pragmatikk i andrespråksperspektiv
 noran107,Fleirspråklegheit i sosiolingvistisk perspektiv
 noran109,Testing og vurdering av språkferdigheiter
 noran124,Andrespråkslæring og -undervisning 
@@ -1992,6 +1930,7 @@ noran250,Andrespråkslingvistikk med bacheloroppgåve
 noran320,Særemne i norsk som andrespråk
 noran602,Norsk som andrespråk (nettstudium)
 noran604,Andrespråkslæring og -undervisning
+noran605,Arbeidsretta norskopplæring
 noran609,Testing og vurdering av språkferdigheiter
 nord100,Innføring i nordistikk
 nordkurs,Nordisk sommarkurs i norsk språk og litteratur
@@ -2079,8 +2018,6 @@ od2orbi,Oral biologi del 2
 od2patim,Generell patologi og immunologi
 od2perio,"Periodonti, ferdigheitskurs"
 od2ront,Kjeve- og ansiktsradiologi
-od3barn,Ferdigheitskurs pedodonti
-od3endo,Ferdighetskurs endodonti
 od3endod,Ferdighetskurs endodonti
 od3farma,Farmakologi
 od3kario,Kariologi + klinikk
@@ -2090,7 +2027,6 @@ od3mast,Plan for masteroppgave
 od3perio,Periodonti + klinikk
 od3prot,Ferdighetskurs del 2: Protetikk
 od3ront,Kjeve- og ansiktsradiologi
-od4barn,Pedodonti + klinikk
 od4barn1,Ferdigheitskurs pedodonti
 od4barn2,Pedodonti + klinikk
 od4diagnos,"Diagnostikk, behandlingsplanlegging"
@@ -2199,6 +2135,7 @@ peda123,Lærarens profesjonsutvikling
 peda130,Innføring i pedagogikk for lektorstudentar
 peda131,Læreplan og undervising
 peda132,Lærarprofesjonalitet
+phd-ahkr900,Praktisk forskningsetikk
 phdjur-g,Grunnline for rettsvitskapleg metode
 phdjur-p,"Perspektivlina: Retts- og vitskapsteori, etikk, rettsleg pluralisme og perspektivfag"
 phdmed901,"Journal Club, medisinsk pedagogisk forsking"
@@ -2212,9 +2149,8 @@ phys113,Mekanikk 2 og termodynamikk
 phys114,Grunnleggjande målevitskap og eksperimentalfysikk
 phys116,Signal- og systemanalyse
 phys118,Kvantefysikk
-phys119,Moderne fysikk II
+phys119,Moderne fysikk
 phys201,Kvantemekanikk
-phys203,Relativistisk kvantemekanikk og feltteori
 phys204,Klassisk mekanikk og spesiell relativitetsteori
 phys205,Elektromagnetisme II
 phys206,Statistisk fysikk og termodynamikk
@@ -2229,7 +2165,7 @@ phys241,Kjerne- og partikkelfysikk
 phys244,Innleiing til kvantefeltteori
 phys251,Det nære verdensrommet
 phys252,Eksperimentelle metodar i romfysikk
-phys261,Atomfysikk
+phys261,Anvendt kvantefysikk
 phys263,Laboratoriekurs i optikk 
 phys264,Atmosfærisk og marin optikk
 phys271,Akustikk
@@ -2240,10 +2176,9 @@ phys298,Forskningspraksis i fysikk ved CERN
 phys299,Bacheloroppgåve i fysikk
 phys301,Generell relativitetsteori
 phys321,Design av komplekse elektroniske system
-phys333,Relativistisk tungionefysikk
-phys335,Tungionefysikk ved middels og høge energier
+phys335,Tung-ionefysikk
 phys341,Utvalde emne i eksperimentell partikkelfysikk
-phys342,Kvantefeltteori
+phys345,Utvalgte emner i teoretisk fysikk
 phys350,Romplasmafysikk
 phys352,Utvalde emne i ionosfærefysikk
 phys372,Utvalde emne i ikkelineær akustikk
@@ -2279,13 +2214,11 @@ pro201,Materialisert kunnskap
 pro202,Malleable Mass
 pro212,FORM & Friction
 pro213,Im/material Knowledge
-pro214,Hammer & Speil - kunstens etiske dilemma
 pro215,Exhibition Making
 pro217,"JAM - Just a Minute. Music, Art and Design Stop Motion Workshop "
 pro218,Stemningar
 pro219,Mediert Evidentia
 pro221,Forskningsemne: Site & Context
-pro222,Forskningsemne: Am I Other
 pro224,Who is looking at who? The Colonial Gaze(s)
 pro225,Studio/Studio
 pro226,Forskingsemne: Globale utfordringar
@@ -2302,14 +2235,11 @@ pro301,Materialisert kunnskap
 pro302,Malleable Mass
 pro312,FORM & Friction
 pro313,Im/material Knowledge
-pro314,Hammer & Speil - kunstens etiske dilemma
 pro315,Exhibition Making
 pro317,"JAM - Just a Minute. Music, Art and Design Stop Motion Workshop "
 pro318,Stemningar
 pro319,Mediert Evidentia 
-pro320,Virkelighet & Relasjoner
 pro321,Forskningsemne: Site and Context
-pro322,Forskningsemne: Am I Other
 pro324,Who is looking at who? The Colonial Gaze(s)
 pro325,Studio/Studio
 pro326,Forskingsemne: Globale utfordringar
@@ -2324,11 +2254,6 @@ pro334,Doing Time
 pro335,Of Course!
 pro399,Masteroppgåve i prosessteknologi
 prog399,Masteroppgåve i Programvareutvikling samarbeid med HVL
-propsy311a,Psykologisk kartlegging
-propsy311b,Psykologisk behandling
-propsy311c,Psykologen som leiar
-propsy312b,Psykologisk behandling III
-propsy312c,Vitskapsteoretiske perspektiv og etikk i klinisk praksis
 propsy315,Samfunnspsykologi
 propsy316,Ekstern fordypningspraksis 
 propsy317,Hovudoppgåve psykologprogrammet
@@ -2415,8 +2340,8 @@ psyk649a,Pandemi og krisepsykologi
 psyk650,Komplisert sorg: teori og behandling
 psyk651,Menneskerettar i helse- og sosialfagleg arbeid
 psyk652,Barn som pårørande når foreldre eller søsken er alvorleg sjuke eller døyr
-psyk653,"Sorg: forståing, støtte og tiltak"
-psyk654,Personelloppfølging etter kritiske hendinger
+psyk653,"Sorg: Forståing, støtte og tiltak"
+psyk654,Personelloppfølging etter kritiske hendingar
 psyk676,Tverrfaglege teamarbeid i krisepsykologi
 psyk678,Vitskapelege forskingsmetodar
 psyk680,Masteroppgåve
@@ -2460,59 +2385,31 @@ relmin649,Discrimination Against Religious Minorities Worldwide
 relmin650,Religious Minorities Master's Thesis
 relv100,"Religion, kultur og samfunn"
 relv101,Kva er religionsvitskap?
-relv102,"Kristendommen, jødedommen og islam"
+relv102,"Jødedom, kristendom og islam: Historiske perspektiv"
 relv103,"Hinduismen, buddhismen og andre asiatiske religionar"
 relv103l,Hinduismen og buddhismen - Lektorutdanninga
 relv105,"Religionar i oltid, antikken og norrøn tid"
-relv202,Spesialiseringsemne
+relv107,"Religion, kultur og samfunn for lektorstudentar (fag 2) "
+relv202,"Spesialiseringsemne: ""Religion i USA"""
 relv202sem,Spesialiseringsemne med semesteroppgåve
-relv208,Samisk religion
-relv209,"Jødedom, kristendom, islam og modernitetar"
+relv209,"Moderne tema i jødedom, kristendom og islam"
 relv210,Utvalde tema i religionsvitskap. Veiledede studier med semesteroppgåve
-relv213,Religion og vitskap
 relv215,Religionsbyen Bergen: Eit feltkurs
-relv221,Nyreligiøsitet
 relv222,Religionar i antikken
 relv223,Buddhisme og jainisme
-relv224,Hinduisme
-relv228,Religion and Politics
-relv230,Religion og media
-relv232,Verdsfilosofiar
-relv233,Religion og kunst
-relv234,Religion og musikk
 relv236,Reformasjonar i Europa
-relv237,Religion and the City
-relv238,Religion i verdslitteraturar
-relv239,"Islam, kjønn og autoritet"
-relv240,Kristne under islamsk styre
-relv242,Relgion i kontekst: Sør-Asia og Øst-Europa
 relv301,Religionsvitskapleg teori
-relv302,Spesialiseringsemne
+relv302,"Spesialiseringsemne: ""Religion i USA"""
 relv302l,Spesialiseringsemne med semesteroppgåve (lektorutdanninga)
 relv302sem,Spesialiseringsemne med semesteroppgåve
 relv303felt,Religionsvitenskap: Frie studiepoeng (feltarbeid)
 relv303munt,Religionsvitenskap: Frie studiepoeng (munnleg)
 relv303sem,Religionsvitenskap: Frie studiepoeng (semesteroppgåve)
-relv308,Samisk religion
 relv309,"Forskingsmetodar, etikk og prosjektdesign "
 relv310,Utvalde tema i religionsvitskap. Veiledede studier med semesteroppgåve
-relv313,Religion og vitskap
 relv315,Religionsbyen Bergen: Eit internasjonalt feltkurs
-relv321,Nyreligiøsitet
 relv322,Religionar i antikken
 relv323,Buddhisme og jainisme
-relv324,Hinduisme
-relv328,Religion and Politics
-relv330,Religion og media
-relv332,Verdsfilosofiar
-relv333,Religion og kunst
-relv334,Religion og musikk
-relv336,Reformasjonar i Europa
-relv337,Religion and the City
-relv338,Religion i verdslitteraturar
-relv339,"Islam, kjønn og autoritet"
-relv340,Kristne under islamsk styre
-relv342,Religion i kontekst: Sør-Asia og Øst-Europa
 relv350,Religionsvitskap mastergradsoppgåve
 relv360,"Jødar og antisemittisme i det moderne Europa, 1789-1945"
 relv363,Religionsvitskap: Frie studiepoeng (munnleg)
@@ -2533,8 +2430,7 @@ rus121,Russisk historie og kultur
 rus130,Russisk språk II
 rus131,Russisk litteratur I
 rus240,Russisk språk og språkvitskap
-rus251,Russisk litteratur II
-rus253,Russisk litteratur II
+rus253,Russisk litteratur II med bacheloroppgåve
 rus301,Russisk språkhistorie og språkstruktur
 rus302,Tekst og skriftleg russisk
 rus303,"Særemne i russisk språk-, litteratur- eller kulturvitskap"
@@ -2547,12 +2443,10 @@ sakdi100-p,Samfunnskunnskapsdidaktikk 1
 sakdi101,Samfunnskunnskapsdidaktikk 1
 sakdi111,Samfunnskunnskapsdidaktikk 2
 sakdi300,Samfunnskunnskapsdidaktikk 3
-sampol100,Innføring i samanliknande politikk
 sampol103,Innføring i politiske ideologiar
 sampol105,Stats- og nasjonsbygging
 sampol106,Politiske institusjonar i etablerte demokrati
 sampol107,Politisk mobilisering
-sampol115,Democracy and Democratization
 sampol116,Democracy and Democratization
 sampol120,Scandinavian Politics and Government
 sampol203,Comparative Arctic Indigenous Governance
@@ -2595,9 +2489,7 @@ sampol612,European Security Transformation
 sampol650,Masteroppgave i demokratibygging
 sampol904,Panel and Pooled Data Analysis
 sampol906,Better Data Visualization (using R)
-sampol908,Digital Content Analysis for Social Science
 sant100,Invitasjon til sosialantropologi
-sant102,Sosialt liv i globalt perspektiv
 sant103,"Materialitet: miljø, stad og økonomi"
 sant104,"Kultur, meining og kommunikasjon"
 sant105,"Politikk, makt og motstand"
@@ -2609,7 +2501,6 @@ sant215,Komparativ regional etnografi
 sant240,"Poverty, Welfare and Marginalisation: An Ethnographic Approach to Modern Urban Life"
 sant260,Bacheloroppgåve
 sant270,Sommerskule i antropologiske forskingsmetodar
-sant275,Etnografi i praksis
 sant280-15,The Frontier of Anthropological Research: Anthropology of humanitarianism
 sant285-10,Current Anthropological Research: New Technologies and the Future of the Human
 sant285-12,Current Anthropological Research: The Class on Class: Towards an Anthropology of Capitalism
@@ -2653,15 +2544,9 @@ sdg900,PhD for Innovation. Interdisciplinary course from systems thinking throug
 sdg928,Beredskap for helsekriser: ei multidisiplinær tilnærming
 sek100,Samanliknande europeiske kulturstudium
 sek600,"Samanliknande europeiske kulturstudium, nettbasert"
-slan640,Fordjupning i spansk språk
-slan641,Fordjupning i latinamerikansk litteratur
-slan642,Fordjupning i latinamerikansk kulturkunnskap
 sos100a,Innføring i sosiologi med fordjupingstema
 sos100b,Innføring i sosiologi
-sos101,Klassisk og moderne sosiologisk teori
-sos103,Samfunnsstrukturer i endring
 sos103-l,Samfunnsstrukturer i endring
-sos105,Arbeid under kapitalismen
 sos105-l,Arbeid under kapitalismen
 sos111,Familien i endring
 sos113,Velferd og ulikhet
@@ -2680,7 +2565,6 @@ sos135,Global Cities
 sos136,"Klasse, stratifikasjon og sosial mobilitet"
 sos137,Migrasjon og ulikhet i mangfoldige samfunn
 sos138,Diversity and organization in universities
-sos149,Å forklare sosial handling
 sos201,Sosiologisk forsking: Teori og metode
 sos202,Bacheloroppgåve i sosiologi
 sos202-l,Bacheloroppgåve i sosiologi
@@ -2707,7 +2591,6 @@ sped102,"Observasjon, kartlegging og tiltak i barnehagen"
 sped103,Samarbeid rundt funksjonshindra barn og unge
 sped200,Profesjonstenkning - lovverk og etikk i teori og praksis
 sped201,"Språk, lesing og skriving ¿ utvikling , vanskar og tiltak"
-sped211,Lese- og skrivevanskar
 sped250,Bacheloroppgåve i spesialpedagogikk
 sped311,Spesialpedagogisk grunnlagstenking
 sped312,Forskingsmetode
@@ -2764,11 +2647,6 @@ stat310,Multivariabel statistisk analyse
 stat330,Utvalde emne i statistikk
 stat399,Masteroppgåve i statistikk
 stat399k,Masteroppgåve i statistikk
-stat621,Introduksjon til Data Science med R
-stat622,Grunnkurs i statistikk
-stat623,Data Science med R - anvendt prediktiv modellering
-stat624,Statistiske metodar
-stat640,Avansert dataananlyse med R
 statovlev,Overlevingsanalyse
 statphd900,Anvendt statistikk
 statphd902,Biostatistikk
@@ -2812,7 +2690,6 @@ tpbaprosj,Prosjektoppgåve
 tpbaron,Røntgenologi
 tpbasam,Samfunnsodontologi med praksisstudiet
 tpbatana,Tannanatomi og oral biologi
-tsak319,Masteremne i tysk språkvitskap
 tveps,Tverrprofesjonell læring
 tvp100,Introduksjon til tv-produksjon og akademisk skriving
 tvp102,Det visuelle språket
@@ -2823,17 +2700,12 @@ tvp261,Utplassering
 tys100,Introduksjon til tyskstudiet
 tys105,Grunnemne i tysk språk I
 tys106,Tyskspråkleg kultur og historie
-tys107,Tysk språk og tekstkunnskap
 tys108,Nyare tyskspråkleg litteratur
 tys115,Grunnemne i tysk språk II
 tys118,Eldre tyskspråkleg litteratur
-tys201,Fordjuping i tysk språk 
 tys205,Fordjuping i tysk språk
 tys206,Fordjuping i tyskspråkleg litteratur
-tys251,Fordjuping i tysk språk med semesteroppgåve
-tys251l,Fordjuping i tysk språk med semesteroppgåve for lektorstudentar
 tys255,Bacheloroppgåve i tysk
-tys256,Fordjuping i tyskspråkleg litteratur med semesteroppgåve
 tys307,Tysk språk og litteraturvitskap
 tys307l,Tysk språk og litteraturvitskap for lektorstudentar
 tys308,"Litteratur, interpretasjon og omsetjing"
@@ -2845,7 +2717,6 @@ tys319,Masteremne i tysk språkvitskap
 tys350,Tysk mastergradsoppgåve 
 tys625,"Grunnemne i tysk språk I, nettbasert"
 tys626,"Tyskspråkleg kultur og historie, nettbasert"
-tys627,"Tysk språk og tekstkunnskap, nettbasert"
 tys628,"Nyare tyskspråkleg litteratur, nettbasert"
 tys635,"Grunnemne i tysk språk II, nettbasert"
 tys638,"Eldre tyskspråkleg litteratur, nettbasert"
@@ -2902,12 +2773,12 @@ vis100,Element og prinsipp i visuell kommunikasjon
 vis110,Typografi og meningsskaping
 vis120,Tidsbaserte uttrykk og interaksjon
 vis131,Visuell identitet
-vis200,Designsystemer og interaksjon
+vis200,Designsystem og interaksjon
 vis211,Redaksjonell design og designjournalisme
 vis234,Profilering
 vis235,Illustrasjon
 vis240,Portfolio og formidling
-vis245,Selvvalgt prosjekt i visuell kommunikasjon
+vis245,Sjølvvalt prosjekt i visuell kommunikasjon
 vis246,Materialbasert design
 vis251,Bachelorprosjekt visuell kommunikasjon
 vit201,Forskingsprosjekt i vitskapsteori/vitskapsstudium
@@ -2920,17 +2791,5 @@ vit216,"Sentrale spørsmål i forsking og samfunn: Kunstig intelligens: Visjonar
 vit217,Pandemier: Kva veit vi? Kva kan vi gjere?
 vit218,Sentrale spørsmål i forsking og samfunn: Liding
 vitsv900,Philosophy and Ethics of Social Sciences
-wngerii900,Litteraturreview på ph.d-nivå
-wngerii901,"Writing the Synopsis in a Doctoral Thesis
-"
-wngerii902,Forskingsetikk
-wngerii903,Mixed Method Research
-wngerii904,Introduction to Meta Analysis
-wngerii905,"Analyse, etikk og refleksivitet i kvalitativ forsking"
-wngerii906,Academic writing: How to write scientific articles in educational research 
-wngerii907,The use of theory within educational research
-wngerii908,Qualitative research with NVivo 
-wngerii909,Qualitative case study research 
-wngerii910,Evidensbasert praksis og profesjonsutøving ¿ kritiske perspektiv
 zor200,Summer School in Zoroastrian Studies
 zor201,Summer Course in Zoroastrian Studies
