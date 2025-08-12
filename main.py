@@ -1,6 +1,7 @@
 import asyncio, aiohttp
 from bs4 import BeautifulSoup as BS
 from types2 import *
+import sys
 
 URL = "https://www4.uib.no/studier/emner"
 
@@ -16,11 +17,11 @@ async def getpage(session, i):
                 href = elem.get("href")
                 title = elem.get("title")
                 code = href[href.rindex("/")+1:]
-                rows.append(Row(
+                rows.append(Course(
                     title = title,
                     code = code,
                 ))
-    print(f"finished {i}", flush=True)
+    print(f"finished {i}", flush=True, file=sys.stderr)
 
 
 async def main():
